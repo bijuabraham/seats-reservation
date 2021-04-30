@@ -1,0 +1,251 @@
+{
+  "seats": {
+    "sections": [
+      {
+        "event_id": 20210501,
+        "name": "Mar Thoma Church of San Francisco",
+        "color": null,
+        "subsections": [
+          {
+            "id": 1,
+            "section_id": 1,
+            "name": "Left Side",
+            "seats_by_rows": {
+              "1": [
+                {
+                  "name": "Left-1-1",
+                  "status": "booked"
+                },
+                {
+                  "name": "Left-1-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-1-3",
+                  "status": "free"
+                }
+              ],
+              "2": [
+                {
+                  "name": "Left-2-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-2-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-2-3",
+                  "status": "free"
+                }
+              ],
+              "3": [
+                {
+                  "name": "Left-3-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-3-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-3-3",
+                  "status": "free"
+                }
+              ],
+              "4": [
+                {
+                  "name": "Left-4-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-4-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-4-3",
+                  "status": "free"
+                }
+              ],
+              "5": [
+                {
+                  "name": "Left-5-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-5-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-5-3",
+                  "status": "free"
+                }
+              ],
+              "6": [
+                {
+                  "name": "Left-6-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-6-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-6-3",
+                  "status": "free"
+                }
+              ],
+              "7": [
+                {
+                  "name": "Left-7-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-7-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-7-3",
+                  "status": "free"
+                }
+              ],
+              "8": [
+                {
+                  "name": "Left-8-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-8-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Left-8-3",
+                  "status": "free"
+                }
+              ]
+            }
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "name": "Right Side",
+            "seats_by_rows": {
+              "1": [
+                {
+                  "name": "Right-1-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-1-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-1-3",
+                  "status": "free"
+                }
+              ],
+              "2": [
+                {
+                  "name": "Right-2-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-2-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-2-3",
+                  "status": "free"
+                }
+              ],
+              "3": [
+                {
+                  "name": "Right-3-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-3-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-3-3",
+                  "status": "free"
+                }
+              ],
+              "4": [
+                {
+                  "name": "Right-4-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-4-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-4-3",
+                  "status": "free"
+                }
+              ],
+              "5": [
+                {
+                  "name": "Right-5-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-5-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-5-3",
+                  "status": "free"
+                }
+              ],
+              "6": [
+                {
+                  "name": "Right-6-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-6-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-6-3",
+                  "status": "free"
+                }
+              ],
+              "7": [
+                {
+                  "name": "Right-7-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-7-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-7-3",
+                  "status": "free"
+                }
+              ],
+              "8": [
+                {
+                  "name": "Right-8-1",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-8-2",
+                  "status": "free"
+                },
+                {
+                  "name": "Right-8-3",
+                  "status": "free"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
